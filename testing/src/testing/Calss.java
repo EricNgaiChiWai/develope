@@ -6,3 +6,5 @@ public class Calss {
 	/* 003 */
 	/* 004 */
 }
+
+/*--*/
